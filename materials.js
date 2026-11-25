@@ -38,4 +38,8 @@ const GALLERY = [
   { img: "photos/7.jpg" },
   { img: "photos/ielts.jpg", caption: "IELTS result" },
   { img: "photos/sat.jpg", caption: "SAT result" },
+  { img: "photos/8.jpg" },
+  { img: "photos/9.jpg" },
+  { img: "photos/10.jpg" },
+  { img: "photos/11.jpg" },
 ];
